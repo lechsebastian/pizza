@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81978563448",
+    "project_id": "pizza-gdansk-410",
+    "storage_bucket": "pizza-gdansk-410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81978563448:android:c0442066397608035e068d",
+        "android_client_info": {
+          "package_name": "com.sebastianlech.pizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRtxC_vq3RBz_5fr5EG3PbbcpZGXiD70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
